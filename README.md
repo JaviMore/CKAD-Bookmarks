@@ -4,7 +4,7 @@
 
 
 Bookmark file for reference notes for [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam
-Supports Kubernetes v1.19
+Supports Kubernetes v1.21
 
 Steps to use the bookmark
 ```
